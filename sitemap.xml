@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://ganeshtmvs.github.io/blog/2020/08/11/2020-07-28-Covid-Dashboard.html</loc>
-<lastmod>2020-08-11T00:00:00-05:00</lastmod>
-</url>
-<url>
 <loc>https://ganeshtmvs.github.io/blog/2020/08/11/Daily-Covid-Updates.html</loc>
 <lastmod>2020-08-11T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://ganeshtmvs.github.io/blog/2020/08/12/project-univ.ai.html</loc>
 <lastmod>2020-08-12T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://ganeshtmvs.github.io/blog/2020/10/02/2020-07-28-Covid-Dashboard.html</loc>
+<lastmod>2020-10-02T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://ganeshtmvs.github.io/blog/</loc>
